@@ -1,10 +1,10 @@
-simapps s.r.o.
+# simapps s.r.o.
 
-We make iOS and MacOS apps.
+## We make iOS and MacOS apps.
 
 Development methodology: Agile. No upfront specifications. No fixed cost agreements. Paid by the minute.
 
-Services offered:
+### Services offered:
 
 #### iOS app development.
 ![iPhone](/IMG_0145.jpeg?raw=true "iPhone") ![Coding](/IMG_0155.jpeg?raw=true "Coding")
