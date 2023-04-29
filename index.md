@@ -24,8 +24,11 @@ Invoice Payment Options: PayPal Business, Wise Business, Revolut Business. Detai
 
 
 
-### Contact info
+### Contact Details
 Email: petrsimapps@icloud.com
+
+### Team Members
+Petr Sima - founder, owner, CEO, senior developer
 
 ### Terms and Conditions
 Terms and Conditions
